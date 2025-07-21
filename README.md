@@ -21,4 +21,4 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/yourusername/demo-project.git
-cd demo-project
+cd Demo-Project
